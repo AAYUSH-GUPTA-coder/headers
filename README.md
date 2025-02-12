@@ -10,6 +10,8 @@ You need Rust and Cargo installed on your machine. See the installation guide
 Then clone the repo and install the CLI globally like this:
 
 ```sh
+git clone https://github.com/transmissions11/headers.git
+cd headers
 cargo install --path .
 ```
 
